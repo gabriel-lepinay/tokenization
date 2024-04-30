@@ -1,1 +1,1 @@
-python3 ./src/tokenGenerator.py $@
+python3 ./srcOld/tokenGenerator.py $@

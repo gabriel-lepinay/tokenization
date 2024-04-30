@@ -1,1 +1,1 @@
-python3 ./src/monitor.py $@
+python3 ./srcOld/monitor.py $@

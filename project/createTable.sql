@@ -6,3 +6,8 @@ CREATE TABLE my_table (
 );
 
 GRANT SELECT, INSERT, UPDATE ON my_table TO gaby;
+
+```
+ SELECT * FROM my_table;
+ TRUNCATE TABLE my_table;
+```
